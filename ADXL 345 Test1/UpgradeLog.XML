@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ADXL 345 Test1">
+</Property><Property Name="Solution File" Value="C:\Data\Perso\0.Electronics\1.FEZ\_Projects\ADXL 345 Test1\ADXL 345 Test1.sln">
+</Property><Property Name="User Options File" Value="C:\Data\Perso\0.Electronics\1.FEZ\_Projects\ADXL 345 Test1\ADXL 345 Test1.suo">
+</Property><Property Name="Date" Value="samedi 23 octobre 2010">
+</Property><Property Name="Time" Value="14:41">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ADXL 345 Test1.sln" Description="File successfully backed up as C:\Data\Perso\0.Electronics\1.FEZ\_Projects\ADXL 345 Test1\Backup\ADXL 345 Test1.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ADXL 345 Test1.suo" Description="File successfully backed up as C:\Data\Perso\0.Electronics\1.FEZ\_Projects\ADXL 345 Test1\Backup\ADXL 345 Test1.suo">
+</Event><Event ErrorLevel="0" Project="ADXL 345 Test1" Source="ADXL 345 Test1\ADXL 345 Test1.csproj" Description="Project file successfully backed up as C:\Data\Perso\0.Electronics\1.FEZ\_Projects\ADXL 345 Test1\Backup\ADXL 345 Test1\ADXL 345 Test1.csproj">
+</Event><Event ErrorLevel="0" Project="ADXL 345 Test1" Source="ADXL 345 Test1\ADXL 345 Test1.csproj.user" Description="Project user file successfully backed up as C:\Data\Perso\0.Electronics\1.FEZ\_Projects\ADXL 345 Test1\Backup\ADXL 345 Test1\ADXL 345 Test1.csproj.user">
+</Event><Event ErrorLevel="0" Project="ADXL 345 Test1" Source="ADXL 345 Test1\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Data\Perso\0.Electronics\1.FEZ\_Projects\ADXL 345 Test1\Backup\ADXL 345 Test1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ADXL 345 Test1" Source="ADXL 345 Test1\Program.cs" Description="File successfully backed up as C:\Data\Perso\0.Electronics\1.FEZ\_Projects\ADXL 345 Test1\Backup\ADXL 345 Test1\Program.cs">
+</Event><Event ErrorLevel="0" Project="ADXL 345 Test1" Source="ADXL 345 Test1\Reporter.cs" Description="File successfully backed up as C:\Data\Perso\0.Electronics\1.FEZ\_Projects\ADXL 345 Test1\Backup\ADXL 345 Test1\Reporter.cs">
+</Event><Event ErrorLevel="0" Project="ADXL 345 Test1" Source="ADXL 345 Test1\Resources.Designer.cs" Description="File successfully backed up as C:\Data\Perso\0.Electronics\1.FEZ\_Projects\ADXL 345 Test1\Backup\ADXL 345 Test1\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ADXL 345 Test1" Source="ADXL 345 Test1\ADXL345_SPI.cs.txt" Description="File successfully backed up as C:\Data\Perso\0.Electronics\1.FEZ\_Projects\ADXL 345 Test1\Backup\ADXL 345 Test1\ADXL345_SPI.cs.txt">
+</Event><Event ErrorLevel="0" Project="ADXL 345 Test1" Source="ADXL 345 Test1\ADXL345.cs.txt" Description="File successfully backed up as C:\Data\Perso\0.Electronics\1.FEZ\_Projects\ADXL 345 Test1\Backup\ADXL 345 Test1\ADXL345.cs.txt">
+</Event><Event ErrorLevel="0" Project="ADXL 345 Test1" Source="ADXL 345 Test1\ADXL345_OK.cs.txt" Description="File successfully backed up as C:\Data\Perso\0.Electronics\1.FEZ\_Projects\ADXL 345 Test1\Backup\ADXL 345 Test1\ADXL345_OK.cs.txt">
+</Event><Event ErrorLevel="0" Project="ADXL 345 Test1" Source="ADXL 345 Test1\Resources.resx" Description="File successfully backed up as C:\Data\Perso\0.Electronics\1.FEZ\_Projects\ADXL 345 Test1\Backup\ADXL 345 Test1\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ADXL 345 Test1" Source="ADXL 345 Test1\ADXL 345 Test1.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ADXL 345 Test1" Source="ADXL 345 Test1\ADXL 345 Test1.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ADXL 345 Test1.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ADXL 345 Test1.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ADXL 345 Test1" Source="ADXL 345 Test1\ADXL 345 Test1.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
